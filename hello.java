@@ -7,6 +7,7 @@ hello java git!!!
 hello java git!!!
 hello java git!!!
 public static void main(String args[]){
+<<<<<<< HEAD
 System.out.println(123);
 }
 
@@ -17,6 +18,9 @@ System.out.println("")
 System.out.println("")
 
 sout..............
+=======
+nuokesasijijiangjueqi
+>>>>>>> 675396efae7b49d0dbbc4f5edb2d22cc0a300d97
 
 
 1111111111111111111111111111111
@@ -45,4 +49,9 @@ public static void main (String [] args){
 	   }
    }
 }
+<<<<<<< HEAD
 >>>>>>> d88da825a509e90dba19dbbc0f20d68d7e8e2ca9
+=======
+wojiangmeiguicangyvshenhou
+111111111111111111111111111111111111111111111111111111111111111111111111
+>>>>>>> 675396efae7b49d0dbbc4f5edb2d22cc0a300d97
