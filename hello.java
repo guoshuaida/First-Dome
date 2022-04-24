@@ -22,3 +22,19 @@ System.out.println(123);
 8888
 999
 0
+public static void main (String [] args){
+   int [] num = {12,13,1,99,56,87};
+   for(int i = 1;i<nums.length;i++){
+	   for(int j = 0;j<nums.length-i;j++){
+		   if(nums[j]>nums[j+1]){
+			   int tmp = nums[j];
+			   nums[j]=nums[j+1];
+			   nums[j+1] = tmp;
+		   }
+	   }
+	   for(int num : nums){
+		   System.out.println(num);
+
+	   }
+   }
+}
